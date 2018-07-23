@@ -1,0 +1,53 @@
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.g.cs
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\App.g.cs
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\amd64\libzmq.so
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\amd64\libzmq.dll
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\amd64\libsodium.so
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\amd64\libsodium.dll
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\i386\libzmq.so
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\i386\libzmq.dll
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\i386\libsodium.so
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\i386\libsodium.dll
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.pdb
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\MsgPack.dll
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\ZeroMQ.dll
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\MsgPack.xml
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.baml
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.exe
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.pdb
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.exe
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.pdb
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.g.cs
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\WpfApplication2\WpfApplication2\obj\Debug\App.g.cs
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\WpfApplication2\WpfApplication2\bin\Debug\amd64\libzmq.so
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\WpfApplication2\WpfApplication2\bin\Debug\amd64\libzmq.dll
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\WpfApplication2\WpfApplication2\bin\Debug\amd64\libsodium.so
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\WpfApplication2\WpfApplication2\bin\Debug\amd64\libsodium.dll
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\WpfApplication2\WpfApplication2\bin\Debug\i386\libzmq.so
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\WpfApplication2\WpfApplication2\bin\Debug\i386\libzmq.dll
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\WpfApplication2\WpfApplication2\bin\Debug\i386\libsodium.so
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\WpfApplication2\WpfApplication2\bin\Debug\i386\libsodium.dll
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.pdb
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\WpfApplication2\WpfApplication2\bin\Debug\MsgPack.dll
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\WpfApplication2\WpfApplication2\bin\Debug\ZeroMQ.dll
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\WpfApplication2\WpfApplication2\bin\Debug\MsgPack.xml
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.baml
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\GazeServer\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\GazeServer\WpfApplication2\obj\Debug\WpfApplication2.exe
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\GazeServer\WpfApplication2\obj\Debug\WpfApplication2.pdb

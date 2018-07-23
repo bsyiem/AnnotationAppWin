@@ -1,0 +1,16 @@
+Documentation/Slide/Gaze-supported\ Selection\ and\ Annotation\ for\ Holographic\ Interaction.pptx
+Unity/SurfaceAnnotateApp/App/SurfaceAnnotateApp/bin/x64/Release/UnityPlayer_UAP_x64_Release_dotnet.pdb
+Unity/SurfaceAnnotateApp/App/SurfaceAnnotateApp/bin/x86/Master/UnityPlayer_UAP_x86_Master_dotnet.pdb
+Unity/SurfaceAnnotateApp/App/SurfaceAnnotateApp/bin/ARM/Debug/UnityPlayer_UAP_ARM_Debug_dotnet.pdb
+Unity/SurfaceAnnotateApp/App/SurfaceAnnotateApp/bin/ARM/Debug/UnityPlayer.dll
+./Unity/GazeIntegration2.1/App/GazeIntegration2.1/bin/x86/Release/UnityPlayer_UAP_x86_Release_dotnet.pdb
+Video/holoLens\ vids/BA.mp4
+Video/holoLens\ vids/Gaze\ Supported\ 2.mp4
+Video/holoLens\ vids/Gaze\ supported\ 1.mp4
+Video/Edited/HoloGaze_labeled1.wmv
+Video/Edited/HoloGaze2.0.wmv
+
+*.bin
+*.pdb
+*.dll
+

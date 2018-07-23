@@ -1,0 +1,115 @@
+c:\users\bsyie\onedrive\documents\visual studio 2015\KinectCandD\KinectCandD\bin\Debug\KinectCandD.exe.config
+c:\users\bsyie\onedrive\documents\visual studio 2015\KinectCandD\KinectCandD\obj\Debug\MainWindow.g.cs
+c:\users\bsyie\onedrive\documents\visual studio 2015\KinectCandD\KinectCandD\obj\Debug\App.g.cs
+c:\users\bsyie\onedrive\documents\visual studio 2015\KinectCandD\KinectCandD\obj\Debug\KinectCandD_Content.g.cs
+c:\users\bsyie\onedrive\documents\visual studio 2015\KinectCandD\KinectCandD\obj\Debug\KinectCandD_MarkupCompile.cache
+c:\users\bsyie\onedrive\documents\visual studio 2015\KinectCandD\KinectCandD\obj\Debug\KinectCandD_MarkupCompile.lref
+c:\users\bsyie\onedrive\documents\visual studio 2015\KinectCandD\KinectCandD\bin\Debug\KinectCandD.exe
+c:\users\bsyie\onedrive\documents\visual studio 2015\KinectCandD\KinectCandD\bin\Debug\KinectCandD.pdb
+c:\users\bsyie\onedrive\documents\visual studio 2015\KinectCandD\KinectCandD\bin\Debug\Emgu.CV.UI.dll
+c:\users\bsyie\onedrive\documents\visual studio 2015\KinectCandD\KinectCandD\bin\Debug\Emgu.CV.UI.GL.dll
+c:\users\bsyie\onedrive\documents\visual studio 2015\KinectCandD\KinectCandD\bin\Debug\Emgu.CV.World.dll
+c:\users\bsyie\onedrive\documents\visual studio 2015\KinectCandD\KinectCandD\bin\Debug\ZedGraph.dll
+c:\users\bsyie\onedrive\documents\visual studio 2015\KinectCandD\KinectCandD\bin\Debug\Emgu.CV.UI.pdb
+c:\users\bsyie\onedrive\documents\visual studio 2015\KinectCandD\KinectCandD\bin\Debug\Emgu.CV.UI.xml
+c:\users\bsyie\onedrive\documents\visual studio 2015\KinectCandD\KinectCandD\bin\Debug\Emgu.CV.UI.GL.xml
+c:\users\bsyie\onedrive\documents\visual studio 2015\KinectCandD\KinectCandD\bin\Debug\Emgu.CV.World.pdb
+c:\users\bsyie\onedrive\documents\visual studio 2015\KinectCandD\KinectCandD\bin\Debug\Emgu.CV.World.xml
+c:\users\bsyie\onedrive\documents\visual studio 2015\KinectCandD\KinectCandD\bin\Debug\ZedGraph.xml
+c:\users\bsyie\onedrive\documents\visual studio 2015\KinectCandD\KinectCandD\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+c:\users\bsyie\onedrive\documents\visual studio 2015\KinectCandD\KinectCandD\bin\Debug\zh-CN\ZedGraph.resources.dll
+c:\users\bsyie\onedrive\documents\visual studio 2015\KinectCandD\KinectCandD\obj\Debug\MainWindow.baml
+c:\users\bsyie\onedrive\documents\visual studio 2015\KinectCandD\KinectCandD\obj\Debug\KinectCandD.g.resources
+c:\users\bsyie\onedrive\documents\visual studio 2015\KinectCandD\KinectCandD\obj\Debug\KinectCandD.Properties.Resources.resources
+c:\users\bsyie\onedrive\documents\visual studio 2015\KinectCandD\KinectCandD\obj\Debug\KinectCandD.csproj.GenerateResource.Cache
+c:\users\bsyie\onedrive\documents\visual studio 2015\KinectCandD\KinectCandD\obj\Debug\KinectCandD.exe
+c:\users\bsyie\onedrive\documents\visual studio 2015\KinectCandD\KinectCandD\obj\Debug\KinectCandD.pdb
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\bin\Debug\KinectCandD.exe.config
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\obj\Debug\KinectCandD.exe
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\obj\Debug\KinectCandD.pdb
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\bin\Debug\KinectCandD.exe
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\bin\Debug\KinectCandD.pdb
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\bin\Debug\ZedGraph.dll
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\bin\Debug\Emgu.CV.UI.xml
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\bin\Debug\Emgu.CV.World.pdb
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\bin\Debug\Emgu.CV.World.xml
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\bin\Debug\ZedGraph.xml
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\obj\Debug\KinectCandD.csprojResolveAssemblyReference.cache
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\obj\Debug\MainWindow.g.cs
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\obj\Debug\App.g.cs
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\obj\Debug\KinectCandD_Content.g.cs
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\obj\Debug\KinectCandD_MarkupCompile.cache
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\obj\Debug\KinectCandD_MarkupCompile.lref
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\obj\Debug\MainWindow.baml
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\obj\Debug\KinectCandD.g.resources
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\obj\Debug\KinectCandD.Properties.Resources.resources
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\obj\Debug\KinectCandD.csproj.GenerateResource.Cache
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCandD\KinectCandD\bin\Debug\KinectCandD.exe.config
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCandD\KinectCandD\obj\Debug\KinectCandD.exe
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCandD\KinectCandD\obj\Debug\KinectCandD.pdb
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCandD\KinectCandD\bin\Debug\KinectCandD.exe
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCandD\KinectCandD\bin\Debug\KinectCandD.pdb
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCandD\KinectCandD\bin\Debug\ZedGraph.dll
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCandD\KinectCandD\bin\Debug\Emgu.CV.UI.pdb
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCandD\KinectCandD\bin\Debug\Emgu.CV.UI.xml
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCandD\KinectCandD\bin\Debug\Emgu.CV.UI.GL.xml
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCandD\KinectCandD\bin\Debug\Emgu.CV.World.pdb
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCandD\KinectCandD\bin\Debug\Emgu.CV.World.xml
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCandD\KinectCandD\bin\Debug\ZedGraph.xml
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCandD\KinectCandD\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCandD\KinectCandD\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCandD\KinectCandD\obj\Debug\KinectCandD.csprojResolveAssemblyReference.cache
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCandD\KinectCandD\obj\Debug\MainWindow.g.cs
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCandD\KinectCandD\obj\Debug\App.g.cs
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCandD\KinectCandD\obj\Debug\KinectCandD_Content.g.cs
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCandD\KinectCandD\obj\Debug\KinectCandD_MarkupCompile.cache
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCandD\KinectCandD\obj\Debug\KinectCandD_MarkupCompile.lref
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCandD\KinectCandD\obj\Debug\MainWindow.baml
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCandD\KinectCandD\obj\Debug\KinectCandD.g.resources
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCandD\KinectCandD\obj\Debug\KinectCandD.Properties.Resources.resources
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCandD\KinectCandD\obj\Debug\KinectCandD.csproj.GenerateResource.Cache
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCandD\KinectCandD\obj\Debug\DisplayWindow.g.cs
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCandD\KinectCandD\obj\Debug\DisplayWindow.baml
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\obj\Debug\DisplayWindow.g.cs
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\obj\Debug\DisplayWindow.baml
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\bin\Debug\MsgPack.dll
+C:\Users\bsyie\OneDrive\Documents\Visual Studio 2015\Projects\KinectCandD\KinectCandD\bin\Debug\MsgPack.xml
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\bin\Debug\KinectCandD.exe.config
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\obj\Debug\KinectCandD.exe
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\obj\Debug\KinectCandD.pdb
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\bin\Debug\KinectCandD.exe
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\bin\Debug\KinectCandD.pdb
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\bin\Debug\MsgPack.dll
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\bin\Debug\ZedGraph.dll
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\bin\Debug\Emgu.CV.UI.pdb
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\bin\Debug\Emgu.CV.UI.xml
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\bin\Debug\Emgu.CV.UI.GL.xml
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\bin\Debug\Emgu.CV.World.pdb
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\bin\Debug\Emgu.CV.World.xml
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\bin\Debug\MsgPack.xml
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\bin\Debug\ZedGraph.xml
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\obj\Debug\KinectCandD.csprojResolveAssemblyReference.cache
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\obj\Debug\DisplayWindow.g.cs
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\obj\Debug\MainWindow.g.cs
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\obj\Debug\App.g.cs
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\obj\Debug\KinectCandD_Content.g.cs
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\obj\Debug\KinectCandD_MarkupCompile.cache
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\obj\Debug\KinectCandD_MarkupCompile.lref
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\obj\Debug\DisplayWindow.baml
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\obj\Debug\MainWindow.baml
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\obj\Debug\KinectCandD.g.resources
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\obj\Debug\KinectCandD.Properties.Resources.resources
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\obj\Debug\KinectCandD.csproj.GenerateResource.Cache
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\bin\Debug\Entity.dll
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\bin\Debug\Entity.pdb
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\bin\Debug\Microsoft.Kinect.dll
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\KinectCandD\KinectCandD\bin\Debug\Microsoft.Kinect.xml
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\WorkInProgress\KinectCandD\KinectCandD\bin\Debug\KinectCandD.exe.config
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\WorkInProgress\KinectCandD\KinectCandD\obj\Debug\KinectCandD.exe
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\WorkInProgress\KinectCandD\KinectCandD\obj\Debug\KinectCandD.pdb

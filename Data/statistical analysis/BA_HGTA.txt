@@ -1,0 +1,27 @@
+
+Call:
+lm(formula = completion_times ~ it)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-9.915 -3.645 -0.345  3.723 11.335 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   57.715      1.913  30.167  < 2e-16 ***
+itHGTA       -24.070      2.706  -8.896  9.7e-09 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 6.628 on 22 degrees of freedom
+Multiple R-squared:  0.7825,	Adjusted R-squared:  0.7726 
+F-statistic: 79.14 on 1 and 22 DF,  p-value: 9.697e-09
+
+Analysis of Variance Table
+
+Response: completion_times
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+it         1 3476.2  3476.2  79.141 9.697e-09 ***
+Residuals 22  966.3    43.9                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

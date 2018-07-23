@@ -1,0 +1,51 @@
+﻿<Window x:Class="KinectCandD.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:emgu="clr-namespace:Emgu.CV.UI;assembly=Emgu.CV.UI"
+        xmlns:local="clr-namespace:KinectCandD"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="50*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="75*"></ColumnDefinition>
+            <ColumnDefinition Width="25*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Viewbox Grid.Column ="1" Grid.RowSpan="2">
+            <ListBox>
+                <ListBoxItem>
+                    <Button IsEnabled="False" Content="Confirm Projection" Width="110" Click="OnConfirmProjection" Name="ConfirmProjection"/>
+                </ListBoxItem>
+                <ListBoxItem>
+                    <Button Visibility="Hidden" Content="Clear Projection" Width="110" Click="OnClearProjection" Name="ClearProjection"/>
+                </ListBoxItem>
+                <ListBoxItem>
+                    <Button IsEnabled="False" Content="Confirm Paper Size" Width="110" Click="OnConfirmPaper" Name="ConfirmPaper"/>
+                </ListBoxItem>
+                <ListBoxItem>
+                    <Button Visibility="Hidden" Content="Clear Paper Size" Width="110" Click="OnClearPaper" Name="ClearPaper"/>
+                </ListBoxItem>
+                <ListBoxItem>
+                    <Button IsEnabled="False" Content="Confirm Marker Size" Width="110" Click="OnConfirmMarker" Name="ConfirmMarker"/>
+                </ListBoxItem>
+                <ListBoxItem>
+                    <Button Visibility="Hidden" Content="Clear Marker Size" Width="110" Click="OnClearMarker" Name="ClearMarker"/>
+                </ListBoxItem>
+                <ListBoxItem>
+                    <Button Visibility="Hidden" Content="Start" Width="110" Click="StartDetect" Name="Start"/>
+                </ListBoxItem>
+            </ListBox>
+        </Viewbox>
+
+        <Image Grid.Column="0" Grid.Row="0" Source="{Binding img}" MouseDown="Image_MouseDown" Stretch="UniformToFill" Name="InitImage"/>
+        <WindowsFormsHost Name="FinalImage" Grid.Column="0" Grid.Row="1" ScrollViewer.CanContentScroll="False" IsEnabled="False">
+            <emgu:ImageBox  x:Name="ImageBox" SizeMode="StretchImage"/>
+        </WindowsFormsHost>
+        <Canvas Name="canvas" Grid.Column="0"></Canvas>
+    </Grid>
+</Window>

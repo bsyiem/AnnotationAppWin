@@ -1,0 +1,42 @@
+﻿<Window x:Class="KinectCandD.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KinectCandD"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Viewbox>
+            <ListBox Margin="392,0,0,10">
+                <ListBoxItem>
+                    <Button IsEnabled="False" Content="Confirm Projection" Width="110" Click="OnConfirmProjection" Name="ConfirmProjection"/>
+                </ListBoxItem>
+                <ListBoxItem>
+                    <Button Visibility="Hidden" Content="Clear Projection" Width="110" Click="OnClearProjection" Name="ClearProjection"/>
+                </ListBoxItem>
+                <ListBoxItem>
+                    <Button IsEnabled="False" Content="Confirm Paper Size" Width="110" Click="OnConfirmPaper" Name="ConfirmPaper"/>
+                </ListBoxItem>
+                <ListBoxItem>
+                    <Button Visibility="Hidden" Content="Clear Paper Size" Width="110" Click="OnClearPaper" Name="ClearPaper"/>
+                </ListBoxItem>
+                <ListBoxItem>
+                    <Button IsEnabled="False" Content="Confirm Marker Size" Width="110" Click="OnConfirmMarker" Name="ConfirmMarker"/>
+                </ListBoxItem>
+                <ListBoxItem>
+                    <Button Visibility="Hidden" Content="Clear Marker Size" Width="110" Click="OnClearMarker" Name="ClearMarker"/>
+                </ListBoxItem>
+                <ListBoxItem>
+                    <Button Visibility="Hidden" Content="Start" Width="110" Click="StartDetect" Name="Start"/>
+                </ListBoxItem>
+            </ListBox>
+        </Viewbox>
+
+        <!--<Image MouseDown="Image_MouseDown" Source="{Binding ImageSource}" Stretch="UniformToFill" Margin="0,0,122.667,-0.333" />-->
+        <Viewbox Margin="0,0,123,0">
+            <Image Margin="0,0,122.667,-0.333" Stretch="UniformToFill" Source="{Binding img}" MouseDown="Image_MouseDown" Name="StreamImage"/>
+        </Viewbox>
+        <Canvas Name="canvas" Margin="0,0,122.667,-0.333"></Canvas>
+    </Grid>
+</Window>

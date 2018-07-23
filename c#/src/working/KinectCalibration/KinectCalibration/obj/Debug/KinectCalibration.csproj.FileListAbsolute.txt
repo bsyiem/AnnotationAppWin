@@ -1,0 +1,17 @@
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectCalibration\KinectCalibration\bin\Debug\KinectCalibration.exe.config
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectCalibration\KinectCalibration\obj\Debug\KinectCalibration.csprojResolveAssemblyReference.cache
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectCalibration\KinectCalibration\obj\Debug\MainWindow.g.cs
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectCalibration\KinectCalibration\obj\Debug\App.g.cs
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectCalibration\KinectCalibration\obj\Debug\KinectCalibration_MarkupCompile.cache
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectCalibration\KinectCalibration\obj\Debug\KinectCalibration_MarkupCompile.lref
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectCalibration\KinectCalibration\bin\Debug\KinectCalibration.exe
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectCalibration\KinectCalibration\bin\Debug\KinectCalibration.pdb
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectCalibration\KinectCalibration\obj\Debug\MainWindow.baml
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectCalibration\KinectCalibration\obj\Debug\KinectCalibration.g.resources
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectCalibration\KinectCalibration\obj\Debug\KinectCalibration.Properties.Resources.resources
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectCalibration\KinectCalibration\obj\Debug\KinectCalibration.csproj.GenerateResource.Cache
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectCalibration\KinectCalibration\obj\Debug\KinectCalibration.exe
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectCalibration\KinectCalibration\obj\Debug\KinectCalibration.pdb
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCalibration\KinectCalibration\bin\Debug\KinectCalibration.exe.config
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCalibration\KinectCalibration\obj\Debug\KinectCalibration.exe
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectCalibration\KinectCalibration\obj\Debug\KinectCalibration.pdb

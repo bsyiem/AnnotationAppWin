@@ -1,0 +1,6 @@
+Add references to Emgu.CV.World
+add existing all file in C:\Emgu\emgucv-windesktop 3.1.0.2504\bin\x64
+add exiting files from opencv opencv_core, opencv_impproc
+NOTE: cvextern.dll has to be added explicitly to the bin\Debug\ of your project
+
+properties -> build -> Platform target 

@@ -1,0 +1,10 @@
+c:\users\bsyie\onedrive\documents\visual studio 2015\Entity\Entity\bin\Debug\Entity.dll
+c:\users\bsyie\onedrive\documents\visual studio 2015\Entity\Entity\bin\Debug\Entity.pdb
+c:\users\bsyie\onedrive\documents\visual studio 2015\Entity\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+c:\users\bsyie\onedrive\documents\visual studio 2015\Entity\Entity\obj\Debug\Entity.dll
+c:\users\bsyie\onedrive\documents\visual studio 2015\Entity\Entity\obj\Debug\Entity.pdb
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\Entity\Entity\bin\Debug\Entity.dll
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\Entity\Entity\bin\Debug\Entity.pdb
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\Entity\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\Entity\Entity\obj\Debug\Entity.dll
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\examples\Entity\Entity\obj\Debug\Entity.pdb

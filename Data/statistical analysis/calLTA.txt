@@ -1,0 +1,25 @@
+
+Call:
+lm(formula = completion_times ~ cal)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-9.232 -5.770 -3.055  6.894 12.188 
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)     41.302      3.256   12.68 1.73e-07 ***
+calapproach_2   -8.012      4.605   -1.74    0.113    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 7.976 on 10 degrees of freedom
+Multiple R-squared:  0.2323,	Adjusted R-squared:  0.1556 
+F-statistic: 3.027 on 1 and 10 DF,  p-value: 0.1125
+
+Analysis of Variance Table
+
+Response: completion_times
+          Df Sum Sq Mean Sq F value Pr(>F)
+cal        1 192.56  192.56  3.0267 0.1125
+Residuals 10 636.20   63.62               

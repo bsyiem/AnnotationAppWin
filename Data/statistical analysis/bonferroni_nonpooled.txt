@@ -1,0 +1,14 @@
+      BA     GGTA     HGTA      LLA      LTA 
+57.71500 33.07833 33.64500 41.45250 37.29583 
+
+	Pairwise comparisons using t tests with non-pooled SD 
+
+data:  completion_times and it 
+
+     BA      GGTA    HGTA    LLA    
+GGTA 3.5e-07 -       -       -      
+HGTA 5.3e-07 1.00000 -       -      
+LLA  0.00017 0.01874 0.02362 -      
+LTA  5.3e-05 1.00000 1.00000 1.00000
+
+P value adjustment method: bonferroni 

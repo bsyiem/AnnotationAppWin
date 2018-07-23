@@ -1,0 +1,19 @@
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectGaze\KinectGaze\bin\Debug\KinectGaze.exe.config
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectGaze\KinectGaze\obj\Debug\KinectGaze.csprojResolveAssemblyReference.cache
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectGaze\KinectGaze\obj\Debug\MainWindow.g.cs
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectGaze\KinectGaze\obj\Debug\App.g.cs
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectGaze\KinectGaze\obj\Debug\KinectGaze_MarkupCompile.cache
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectGaze\KinectGaze\obj\Debug\KinectGaze_MarkupCompile.lref
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectGaze\KinectGaze\bin\Debug\KinectGaze.exe
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectGaze\KinectGaze\bin\Debug\KinectGaze.pdb
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectGaze\KinectGaze\bin\Debug\Microsoft.Kinect.dll
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectGaze\KinectGaze\bin\Debug\Microsoft.Kinect.xml
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectGaze\KinectGaze\obj\Debug\MainWindow.baml
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectGaze\KinectGaze\obj\Debug\KinectGaze.g.resources
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectGaze\KinectGaze\obj\Debug\KinectGaze.Properties.Resources.resources
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectGaze\KinectGaze\obj\Debug\KinectGaze.csproj.GenerateResource.Cache
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectGaze\KinectGaze\obj\Debug\KinectGaze.exe
+c:\users\bsyie\onedrive\documents\visual studio 2015\Projects\KinectGaze\KinectGaze\obj\Debug\KinectGaze.pdb
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectGaze\KinectGaze\bin\Debug\KinectGaze.exe.config
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectGaze\KinectGaze\obj\Debug\KinectGaze.exe
+D:\Research Project\Gaze_interests\gaze_interests\c#\src\working\KinectGaze\KinectGaze\obj\Debug\KinectGaze.pdb
